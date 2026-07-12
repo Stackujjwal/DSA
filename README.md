@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Stackujjwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Stackujjwal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -161,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Stackujjwal/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Stackujjwal/DSA/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Stackujjwal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
