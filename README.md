@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Stackujjwal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Stackujjwal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Stackujjwal/DSA/tree/master/0202-happy-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Stackujjwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Stackujjwal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Stackujjwal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Queue
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Stackujjwal/DSA/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
