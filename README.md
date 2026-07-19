@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Stackujjwal/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Stackujjwal/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Stackujjwal/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Stackujjwal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Stackujjwal/DSA/tree/master/0152-maximum-product-subarray) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Stackujjwal/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Stackujjwal/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Stackujjwal/DSA/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
