@@ -6,8 +6,8 @@ class Solution {
             alphabet[c-'a']=true;
         } 
         for(int i =0;i<alphabet.length;i++){
-            if(alphabet[i]==false){
-                return false;
+            if(!alphabet[i]){
+                return alphabet[i];
             }
            
         }
