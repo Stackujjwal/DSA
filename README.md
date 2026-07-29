@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Stackujjwal/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Stackujjwal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1773-count-items-matching-a-rule](https://github.com/Stackujjwal/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/Stackujjwal/DSA/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Stackujjwal/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Stackujjwal/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Stackujjwal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Stackujjwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Stackujjwal/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Stackujjwal/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/Stackujjwal/DSA/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Stackujjwal/DSA/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sweep Line
 |  |
