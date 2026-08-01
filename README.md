@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Stackujjwal/DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Stackujjwal/DSA/tree/master/0986-interval-list-intersections) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Stackujjwal/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Stackujjwal/DSA/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/Stackujjwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Stackujjwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Stackujjwal/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Stackujjwal/DSA/tree/master/1920-build-array-from-permutation) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Stackujjwal/DSA/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
