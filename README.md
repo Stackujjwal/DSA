@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Stackujjwal/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Stackujjwal/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Stackujjwal/DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Stackujjwal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Stackujjwal/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Stackujjwal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Stackujjwal/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Stackujjwal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Stackujjwal/DSA/tree/master/0867-transpose-matrix) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Stackujjwal/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Stackujjwal/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Stackujjwal/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Stackujjwal/DSA/tree/master/1572-matrix-diagonal-sum) |
