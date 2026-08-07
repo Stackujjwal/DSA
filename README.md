@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Stackujjwal/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Stackujjwal/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Stackujjwal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Stackujjwal/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Stackujjwal/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Stackujjwal/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Stackujjwal/DSA/tree/master/0202-happy-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Stackujjwal/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Stackujjwal/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Stackujjwal/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
