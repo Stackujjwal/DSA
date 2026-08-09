@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Stackujjwal/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Stackujjwal/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Stackujjwal/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Stackujjwal/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Stackujjwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Stackujjwal/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Stackujjwal/DSA/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Stackujjwal/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Stackujjwal/DSA/tree/master/0441-arranging-coins) |
 | [0989-add-to-array-form-of-integer](https://github.com/Stackujjwal/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/Stackujjwal/DSA/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
