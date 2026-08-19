@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Stackujjwal/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Stackujjwal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Stackujjwal/DSA/tree/master/0567-permutation-in-string) |
+| [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Stackujjwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Stackujjwal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Stackujjwal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Stackujjwal/DSA/tree/master/0867-transpose-matrix) |
+| [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Stackujjwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Stackujjwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Stackujjwal/DSA/tree/master/0217-contains-duplicate) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Stackujjwal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Stackujjwal/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Stackujjwal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Stackujjwal/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Stackujjwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Stackujjwal/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
