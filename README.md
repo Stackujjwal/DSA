@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Stackujjwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Stackujjwal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Stackujjwal/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Stackujjwal/DSA/tree/master/3731-find-missing-elements) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Stackujjwal/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Stackujjwal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Stackujjwal/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1406-stone-game-iii](https://github.com/Stackujjwal/DSA/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Stackujjwal/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Stackujjwal/DSA/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Stackujjwal/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Recursion
 |  |
 | ------- |
