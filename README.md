@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Stackujjwal/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Stackujjwal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Stackujjwal/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Stackujjwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stackujjwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Stackujjwal/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/Stackujjwal/DSA/tree/master/0525-contiguous-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Stackujjwal/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Stackujjwal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Stackujjwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Stackujjwal/DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/Stackujjwal/DSA/tree/master/0832-flipping-an-image) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Stackujjwal/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Stackujjwal/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Stackujjwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/Stackujjwal/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Stackujjwal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Stackujjwal/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Stackujjwal/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Stackujjwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Stackujjwal/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Stackujjwal/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Stackujjwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Stackujjwal/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Stackujjwal/DSA/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Stackujjwal/DSA/tree/master/0713-subarray-product-less-than-k) |
