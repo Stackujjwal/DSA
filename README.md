@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Stackujjwal/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Stackujjwal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Stackujjwal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Stackujjwal/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Stackujjwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Stackujjwal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Stackujjwal/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Stackujjwal/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Stackujjwal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Stackujjwal/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Stackujjwal/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Stackujjwal/DSA/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Stackujjwal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Stackujjwal/DSA/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Stackujjwal/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
