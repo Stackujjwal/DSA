@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Stackujjwal/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Stackujjwal/DSA/tree/master/0441-arranging-coins) |
 | [0754-reach-a-number](https://github.com/Stackujjwal/DSA/tree/master/0754-reach-a-number) |
+| [0836-rectangle-overlap](https://github.com/Stackujjwal/DSA/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Stackujjwal/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/Stackujjwal/DSA/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -481,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Stackujjwal/DSA/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Stackujjwal/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
