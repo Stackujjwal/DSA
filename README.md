@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Stackujjwal/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Stackujjwal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Stackujjwal/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Stackujjwal/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Stackujjwal/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Stackujjwal/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Stackujjwal/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Stackujjwal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Stackujjwal/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Stackujjwal/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Stackujjwal/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Stackujjwal/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Stackujjwal/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Stackujjwal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/Stackujjwal/DSA/tree/master/0436-find-right-interval) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Stackujjwal/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Stackujjwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/Stackujjwal/DSA/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sweep Line
@@ -489,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Stackujjwal/DSA/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
