@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Stackujjwal/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Stackujjwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Stackujjwal/DSA/tree/master/0986-interval-list-intersections) |
 | [0989-add-to-array-form-of-integer](https://github.com/Stackujjwal/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Stackujjwal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
+| [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Stackujjwal/DSA/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Stackujjwal/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Stackujjwal/DSA/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Stackujjwal/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Stackujjwal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Stackujjwal/DSA/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/Stackujjwal/DSA/tree/master/0836-rectangle-overlap) |
+| [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/Stackujjwal/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/Stackujjwal/DSA/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Stackujjwal/DSA/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -513,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Stackujjwal/DSA/tree/master/0169-majority-element) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
