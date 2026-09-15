@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Stackujjwal/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Stackujjwal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Stackujjwal/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Stackujjwal/DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Stackujjwal/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Stackujjwal/DSA/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Stackujjwal/DSA/tree/master/0436-find-right-interval) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Stackujjwal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Stackujjwal/DSA/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Stackujjwal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Stackujjwal/DSA/tree/master/1051-height-checker) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Stackujjwal/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Stackujjwal/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Stackujjwal/DSA/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Stackujjwal/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/Stackujjwal/DSA/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/Stackujjwal/DSA/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Stackujjwal/DSA/tree/master/0989-add-to-array-form-of-integer) |
