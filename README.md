@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Stackujjwal/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Stackujjwal/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Stackujjwal/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Stackujjwal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Stackujjwal/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Stackujjwal/DSA/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Stackujjwal/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/Stackujjwal/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Stackujjwal/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Stackujjwal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Stackujjwal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Stackujjwal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Stackujjwal/DSA/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Stackujjwal/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Stackujjwal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Stackujjwal/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Stackujjwal/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Stackujjwal/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
