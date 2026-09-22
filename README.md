@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Stackujjwal/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Stackujjwal/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Stackujjwal/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Stackujjwal/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Stackujjwal/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Stackujjwal/DSA/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/Stackujjwal/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Stackujjwal/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Stackujjwal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Stackujjwal/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Stackujjwal/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/Stackujjwal/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Stackujjwal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
