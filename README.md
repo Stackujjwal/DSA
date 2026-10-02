@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Stackujjwal/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Stackujjwal/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Stackujjwal/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Stackujjwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Stackujjwal/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Stackujjwal/DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Stackujjwal/DSA/tree/master/0152-maximum-product-subarray) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Stackujjwal/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Newton's Method
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Stackujjwal/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
