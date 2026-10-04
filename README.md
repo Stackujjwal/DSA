@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Stackujjwal/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Stackujjwal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Stackujjwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Stackujjwal/DSA/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Stackujjwal/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Stackujjwal/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Stackujjwal/DSA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Stackujjwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Stackujjwal/DSA/tree/master/1108-defanging-an-ip-address) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Stackujjwal/DSA/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Stackujjwal/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Stackujjwal/DSA/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Stackujjwal/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/Stackujjwal/DSA/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Stackujjwal/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Stackujjwal/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
