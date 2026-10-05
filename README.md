@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Stackujjwal/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Stackujjwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Stackujjwal/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Stackujjwal/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Stackujjwal/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Stackujjwal/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Stackujjwal/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Stackujjwal/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Stackujjwal/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
