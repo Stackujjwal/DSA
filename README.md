@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Stackujjwal/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Stackujjwal/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Stackujjwal/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Stackujjwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Stackujjwal/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Stackujjwal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Stackujjwal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Stackujjwal/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Stackujjwal/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Stackujjwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/Stackujjwal/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Stackujjwal/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Stackujjwal/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Stackujjwal/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1386-cinema-seat-allocation](https://github.com/Stackujjwal/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Stackujjwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Stackujjwal/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Stackujjwal/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Stackujjwal/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Stackujjwal/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Stackujjwal/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Stackujjwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Stackujjwal/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Stackujjwal/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Stackujjwal/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
